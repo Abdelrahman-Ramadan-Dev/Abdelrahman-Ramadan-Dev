@@ -4,10 +4,10 @@
 <img src="https://i.pinimg.com/1200x/22/bc/8e/22bc8ebef610eb881071e1a7007a7a80.jpg" width="60%"/> <br>
 
 
-<h2>Hey 👋, I'm Abdelrahman Ramadan</h2>
+<h2>Hi, I'm Abdelrahman Ramadan</h2>
 <h3>🌐 Front-End / Web Developer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Ramadan-Dev&style=flat&color=orange)
 
 </div>
 
